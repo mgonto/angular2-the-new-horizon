@@ -1,8 +1,8 @@
-## Talk Starter
+## Angular 2: The new horizon
 
 This are the slides for the talk WHAT TALK?
 
-You can see them at http://mgonto.github.io/talk-starter
+You can see them at [http://mgonto.github.io/angular2-the-new-horizon](http://mgonto.github.io/angular2-the-new-horizon)
 
 ## Thanks
 
